@@ -1,0 +1,11 @@
+/* Colors */
+:root {
+    --primary-color: #3F60DD;
+    --secondary-color: #EA5151;
+    --tertiary-color: #ECEDF7;
+    --shadow-color: yellow;
+    --background-color: #E8EBF2;
+    --light-background-color: #F7F7F7;
+    --very-light-background-color: #fff;
+}
+  
